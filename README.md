@@ -1,2 +1,2 @@
-# cursoemvideo-html5
- projeto-glass
+# Projeto Glass
+ Curso em Video HTML5
